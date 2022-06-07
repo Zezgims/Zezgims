@@ -1,4 +1,4 @@
-### Hi 👋, I'm Zeynep Ezgi
+## Hi 👋, I'm Zeynep Ezgi
 
 📫 How to reach me zezgi_yalcinkaya@hotmail.com
 <!--
