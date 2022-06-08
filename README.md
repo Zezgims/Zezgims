@@ -12,7 +12,7 @@
 <a href="https://www.hackerrank.com/metehanelmas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/metehanelmas" height="30" width="40" /></a>
 </p>
 - ![Linkedin](https://user-images.githubusercontent.com/61873515/172675533-49d4829d-4a24-4e3b-b351-8b61ff1fa35d.png)
-- <img src="https://user-images.githubusercontent.com/61873515/172675533-49d4829d-4a24-4e3b-b351-8b61ff1fa35d.png" alt="kodluyoruz" width="300"/>
+- <img src="https://user-images.githubusercontent.com/61873515/172675533-49d4829d-4a24-4e3b-b351-8b61ff1fa35d.png" alt="https://www.linkedin.com/in/zezgims/" width="300"/>
 - [Hackerrank](https://www.hackerrank.com/zezgims)
 - [Instagram](https://www.instagram.com/zezgi.y/)
 - [Stack Overflow](https://stackoverflow.com/users/19276952/zezgims)
