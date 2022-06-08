@@ -6,7 +6,7 @@
 
 ### Connect with me:
 - [Linkedin](https://www.linkedin.com/in/zezgims/)
-- [Haccerrank](https://www.hackerrank.com/zezgims)
+- [Hackerrank](https://www.hackerrank.com/zezgims)
 - [Instagram](https://www.instagram.com/zezgi.y/)
 - [Stack Overflow](https://stackoverflow.com/users/19276952/zezgims)
 
