@@ -6,7 +6,7 @@
 - 📫 How to reach me zezgi_yalcinkaya@hotmail.com
 
 ### Connect with me:
-- [Linkedin](![174857](https://user-images.githubusercontent.com/61873515/172675533-49d4829d-4a24-4e3b-b351-8b61ff1fa35d.png))
+- ![174857](https://user-images.githubusercontent.com/61873515/172675533-49d4829d-4a24-4e3b-b351-8b61ff1fa35d.png)
 - [Hackerrank](https://www.hackerrank.com/zezgims)
 - [Instagram](https://www.instagram.com/zezgi.y/)
 - [Stack Overflow](https://stackoverflow.com/users/19276952/zezgims)
