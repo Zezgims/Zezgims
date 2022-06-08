@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/zezgims/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/zezgims/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/zezgi.y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/zezgi.y/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zezgims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/zezgims" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19276952/zezgims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stackoverflow.com/users/19276952/zezgims" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19276952/zezgims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/19276952/zezgims" height="30" width="40" /></a>
 
 
 <!--
