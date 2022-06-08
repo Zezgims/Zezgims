@@ -1,4 +1,4 @@
-                # Hi 👋, I'm Zeynep Ezgi
+# Hi 👋, I'm Zeynep Ezgi
 
 - 🔭 I'm currently working on [Patika.dev - Bootcamp](https://www.patika.dev/tr/bootcamp)
 - 💬 Ask me about **everything**
