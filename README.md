@@ -5,7 +5,7 @@
 - 📫 How to reach me zezgi_yalcinkaya@hotmail.com
 
 ###### Connect with me:
-![resim_açıklaması][https://seeklogo.com/vector-logo/157910/linkedin]
+![resim_açıklaması](https://seeklogo.com/vector-logo/157910/linkedin)
 
 <!--
 **Zezgims/Zezgims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
