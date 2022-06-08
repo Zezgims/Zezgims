@@ -4,10 +4,14 @@
 - 💬 Ask me about everything
 - 📫 How to reach me zezgi_yalcinkaya@hotmail.com
 
-###### Connect with me:
-![resim_açıklaması](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
+### Connect with me:
+- [Linkedin](https://www.linkedin.com/in/zezgims/)
+- [Haccerrank](https://www.hackerrank.com/zezgims)
+- [Instagram](https://www.instagram.com/zezgi.y/)
+- [Stack Overflow](https://stackoverflow.com/users/19276952/zezgims)
 
 <!--
+![resim_açıklaması](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
 **Zezgims/Zezgims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
