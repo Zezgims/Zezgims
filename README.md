@@ -1,6 +1,7 @@
 # Hi 👋, I'm Zeynep Ezgi
 
 - 🔭 I'm currently working on [Patika.dev - Bootcamp](https://www.patika.dev/tr/bootcamp)
+- 👨‍💻 All of my projects are available at https://github.com/zezgims
 - 💬 Ask me about **everything**
 - 📫 How to reach me zezgi_yalcinkaya@hotmail.com
 
