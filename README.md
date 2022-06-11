@@ -18,7 +18,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="max-width: 100%;"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="max-width: 100%;"></a>
 <a href="#"><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/sql-logo.png" height="40" style="max-width: 100%;"></a>
-
+<a href="#"><img src="https://user-images.githubusercontent.com/61873515/173184891-07d3280c-f2fc-436d-9bd6-79b6ca15f051.jpg" height="40" style="max-width: 100%;"></a>
 
 <!--**Zezgims/Zezgims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" style="max-width: 100%;"></a>
