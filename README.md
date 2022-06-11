@@ -13,7 +13,7 @@
 <a href="https://stackoverflow.com/users/19276952/zezgims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/19276952/zezgims" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="#"><img src="https://www.logolynx.com/images/logolynx/40/4070ab2cfaaaa20f057a719f1805d853.png" width="30" height="50" style="max-width: 100%;"></a>
+<img src="https://www.logolynx.com/images/logolynx/40/4070ab2cfaaaa20f057a719f1805d853.png" width="30" height="50" style="max-width: 100%;">
 <a href="#"><img src="https://intellitech.pro/wp-content/uploads/2019/01/ff-min.png" width="50" height="50"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" style="max-width: 100%;"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="max-width: 100%;"></a>
