@@ -1,4 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Zeynep Ezgi </h1>
+<h3 align="center">I am a junior developer and I living in Istanbul.</h3>
 
 - 🔭 I'm currently working on [Patika.dev - Bootcamp](https://www.patika.dev/tr/bootcamp)
 - 👨‍💻 All of my projects are available at [Github](https://github.com/zezgims)
