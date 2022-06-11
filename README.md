@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on [Patika.dev - Bootcamp](https://www.patika.dev/tr/bootcamp)
 - 👨‍💻 All of my projects are available at [Github](https://github.com/zezgims)
 - 💬 Ask me about **everything**
-- 📫 How to reach me zezgi_yalcinkaya@hotmail.com
+- 📫 How to reach me zezgi_yalcinkaya@hotmail.com or zezgi99@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/zezgims/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/zezgims/" height="30" width="40";></a>
