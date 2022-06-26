@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="#"><img src="https://www.logolynx.com/images/logolynx/40/4070ab2cfaaaa20f057a719f1805d853.png" height="65" style="max-width: 100%;"></a>
-<a href="#"><img src="https://intellitech.pro/wp-content/uploads/2019/01/ff-min.png" height="50" style="max-width: 100%;"></a>
+<!--<a href="#"><img src="https://intellitech.pro/wp-content/uploads/2019/01/ff-min.png" height="50" style="max-width: 100%;"></a>-->
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" style="max-width: 100%;"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="45" style="max-width: 100%;"></a>
 <a href="#"><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/sql-logo.png" height="40" style="max-width: 100%;"></a>
