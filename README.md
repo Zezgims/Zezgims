@@ -1,7 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Zeynep Ezgi </h1>
 <h3 align="center">I am a junior developer.</h3>
 
-- 🔭 I'm currently working on [Patika.dev - Bootcamp](https://www.patika.dev/tr/bootcamp)
 - 👨‍💻 All of my projects are available at [Github](https://github.com/zezgims)
 - 💬 Ask me about **everything**
 - 📫 How to reach me zezgi_yalcinkaya@hotmail.com
@@ -27,7 +26,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="max-width: 100%;"></a>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... - 🔭 I'm currently working on [Patika.dev - Bootcamp](https://www.patika.dev/tr/bootcamp)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
